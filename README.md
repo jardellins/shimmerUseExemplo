@@ -1,4 +1,3 @@
-![Capturar_select-area_20210615222113](https://user-images.githubusercontent.com/44972197/122143560-14541300-ce28-11eb-84c7-c91935669082.png)
 
 <h1 align="center">
     Shimmer Placeholder Exemplo
@@ -12,20 +11,20 @@
 
 Para utilizaar o Shimmer com o Expo será necessário instalar o Linear Gradient
 
-```
+```bash
 expo install expo-linear-gradient
 ```
 
 Instalar o shimmer
 
-```
+```bash
 yarn add react-native-shimmer-placeholder
 ```
 <br/>
 
 ## Utilizando
 
-```
+```javascript
 import { createShimmerPlaceholder } from 'react-native-shimmer-placeholder'
 import { LinearGradient } from 'expo-linear-gradient';
 
