@@ -40,3 +40,4 @@ const ShimmerPlaceHolder = createShimmerPlaceholder(LinearGradient)
 </ShimmerPlaceHolder>
 ```
 
+https://user-images.githubusercontent.com/44972197/123526832-db7e2e80-d6b0-11eb-925f-76ec13dcf71b.mp4
